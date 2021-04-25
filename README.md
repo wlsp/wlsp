@@ -1,5 +1,8 @@
-### Hi there 👋
-
+###  Hi, I’m @wlsp  <img width="244" alt="me" src="https://user-images.githubusercontent.com/81742640/116001895-37680080-a5f7-11eb-9678-11256d2eaaaa.png">
+- 🧠 I’m interested in learning how to code 
+- 💻 I’m currently doing a Full-Stack Web Developer Bootcamp @supercode-de 🚀 
+     and 🌱 learning how to #code
+- 
 <!--
 **wlsp/wlsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
