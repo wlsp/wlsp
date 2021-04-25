@@ -1,6 +1,6 @@
 ###  Hi, I’m @wlsp  <img width="90" alt="me" src="https://user-images.githubusercontent.com/81742640/116001895-37680080-a5f7-11eb-9678-11256d2eaaaa.png">
 - 🧠  I’m interested in learning how to code 
-- <img width="7" alt="me+mac" src="https://user-images.githubusercontent.com/81742640/116002807-b2331a80-a5fb-11eb-9e74-c1826eca2db8.png">  I’m currently doing a Full-Stack Web Developer Bootcamp @supercode-de 🚀 and 🌱 learning how to #code
+- <img width="15" alt="me+mac" src="https://user-images.githubusercontent.com/81742640/116002807-b2331a80-a5fb-11eb-9e74-c1826eca2db8.png">  I’m currently doing a Full-Stack Web Developer Bootcamp @supercode-de 🚀 and 🌱 learning how to #code
 - 📫  How to reach me:
      -  <img width="40" alt="github" src="https://user-images.githubusercontent.com/81742640/116001984-b3624880-a5f7-11eb-84a6-f47a16b0d9bb.png">  <img width="40" alt="github" src="https://user-images.githubusercontent.com/81742640/116002014-dab91580-a5f7-11eb-8af2-4129c7f2a243.png"> **@wlsp**
 
