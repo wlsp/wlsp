@@ -1,5 +1,9 @@
 
-### 💻 I’m currently doing a Full-Stack Web Developer Bootcamp @supercode-de 🚀
+### 🖖🏾  Hi, I’m @wlsp 
+- 💻 I’m currently doing a Full-Stack Web Developer Bootcamp @supercode-de 🚀
+- 🧠  I’m interested in learning how to code 
+
+
 ### Some stuff I'm currently learning while coding..
 
 ![me+stuff#learning ](https://user-images.githubusercontent.com/81742640/116287134-577ef780-a790-11eb-877f-79365a548066.png)
