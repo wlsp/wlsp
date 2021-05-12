@@ -1,5 +1,5 @@
 
-### some stuff I am learning..
+### some stuff I am learning while coding..
 
 ![me+stuff#learning ](https://user-images.githubusercontent.com/81742640/116287134-577ef780-a790-11eb-877f-79365a548066.png)
 
