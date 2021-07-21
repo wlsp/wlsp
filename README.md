@@ -1,7 +1,7 @@
 
 ### some stuff I am learning while coding..
 
-![me+stuff#learning ](https://user-images.githubusercontent.com/81742640/116287134-577ef780-a790-11eb-877f-79365a548066.png)
+![stuff#learning ](https://user-images.githubusercontent.com/81742640/126449763-1c5da701-1a73-4b4f-bda1-89ff43adbd10.png)
 
 
 <!--
