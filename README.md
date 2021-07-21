@@ -1,7 +1,8 @@
 
-### ✨  Tools ✨ :
+###  Tools  :
 
-![stuff#learning ]![Tools](https://user-images.githubusercontent.com/81742640/126474039-48c0caf8-30be-4aa1-b9da-b3efed7bec5f.png)
+![stuff#learning ]![Tools (1)](https://user-images.githubusercontent.com/81742640/126485414-b39805fa-0fa2-4b5c-9157-2cfd77ef9e6c.png)
+
 
 
 
