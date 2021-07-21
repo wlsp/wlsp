@@ -1,5 +1,5 @@
 
-### some stuff I am learning while coding..
+### Tools:
 
 ![stuff#learning ]![tools](https://user-images.githubusercontent.com/81742640/126457833-fb03ad8d-213d-4094-990d-216781b5af5f.png)
 
