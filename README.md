@@ -4,7 +4,7 @@
 ![stuff#learning/using]
 
 
-[![My Stats](https://github-readme-stats.vercel.app/api/?username=wlsp&count_private=true&theme=tokyonight&showicons=true&?hide=stat2&layout=compact)]()
+[![My Stats](https://github-readme-stats.vercel.app/api/?username=wlsp&count_private=true&theme=tokyonight&showicons=true&?hide=issues&layout=compact)]()
 [![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsp&langs_count=5&theme=tokyonight&layout=compact)]()
 
 
