@@ -1,7 +1,9 @@
 
 ###  Tools  :
 
-![stuff#learning/using]![Tools](https://user-images.githubusercontent.com/81742640/126485765-284f75dd-de8c-4820-82b5-d88667eb078b.png)
+![stuff#learning/using]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wlsp&count_private=true&theme=tokyonight&showicons=true)]()
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsp&langs_count=5&theme=tokyonight)]()
 
 
 
